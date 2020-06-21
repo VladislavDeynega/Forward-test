@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.exe.config
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.exe
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.pdb
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.csprojAssemblyReference.cache
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.exe
+D:\Visual Studio Projects\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.pdb
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.exe.config
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.exe
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Debug\EnginModel.pdb
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.csprojAssemblyReference.cache
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.exe
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Debug\EnginModel.pdb

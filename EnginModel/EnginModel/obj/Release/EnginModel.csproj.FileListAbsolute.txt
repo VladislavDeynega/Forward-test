@@ -1,0 +1,6 @@
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Release\EnginModel.exe.config
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Release\EnginModel.exe
+D:\работа\EngineModel\EnginModel\EnginModel\bin\Release\EnginModel.pdb
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Release\EnginModel.csprojAssemblyReference.cache
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Release\EnginModel.exe
+D:\работа\EngineModel\EnginModel\EnginModel\obj\Release\EnginModel.pdb
